@@ -1,2 +1,9 @@
 hello i am abc.txt file 
 i was changed again
+
+
+content ke basis your unique key is generated,if your content is changed so naturally your 
+unique key also changes
+now this unique key can be converted back to content of your file
+changes observe ->unique generated -> store
+git uses unique key of that version->decrypts->content of file -> show
