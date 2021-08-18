@@ -6,3 +6,6 @@ who made changes and what
 
 hello my favourite colour is red
 hddszbbgfddsbf
+
+i changed hello.txt file,now let us see the changes by writing
+git status
